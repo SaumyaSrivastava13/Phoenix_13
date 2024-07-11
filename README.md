@@ -18,7 +18,7 @@ Apart from learning, we would also take care of their mental health by creating 
 
 ## How it works?
 
-![Banner-2](https://cdn.discordapp.com/attachments/1046493587916988417/1113103428026118226/2.png)
+![Banner-2](images/2.png)
 
 The user interactions related to learning would be duly recorded. These recordings will be taken as input features for our Intel oneAPI oneDNN and oneDAL integrated ML and DL models. These models will further make predictions, cluster the students according to their areas of interest, generate visualization for their progress in each of their domains/subjects, and provide the candidates with study material recommendations whether it is a video, blog, or book.
 Some fun activities and assessments to help them, co-op with their studies, which in turn will be recorded and a ranking system amongst the students say class-wise, section-wise, or campus-wise will provide them scores for performing well in those activities and classes and rank them accordingly, creating a healthy competitive environment.
@@ -33,7 +33,7 @@ Making learning more interactive and innovative by providing a clearer picture a
 
 ## Category - 01   (Academic)
 
-![Banner-3](https://cdn.discordapp.com/attachments/1046493587916988417/1113105198349553746/3.png)
+![Banner-3](images/3.png)
 
 01. An advanced ranking system that will be updated on a day-to-day basis which would be based on the overall performance during lectures, projects, assignments, and quizzes.
 
@@ -47,7 +47,7 @@ Making learning more interactive and innovative by providing a clearer picture a
 
 ## Category - 02  (Gamification)
 
-![Banner-4](https://cdn.discordapp.com/attachments/1046493587916988417/1113105577070047252/4.png)
+![Banner-4](images/4.png)
 
 01. Improvisation of the ranking system through day-to-day digital badge system. Every day the student who has outperformed everyone else by giving more quizzes and doing his assignments would be provided with the student of the day batch.
 
@@ -57,7 +57,7 @@ Making learning more interactive and innovative by providing a clearer picture a
 
 ## Category - 03  (Student Insights)
 
-![Banner-5](https://cdn.discordapp.com/attachments/1046493587916988417/1113105861733253210/5.png)
+![Banner-5](images/5.png)
 
 01. Checking on the mental health of the student, there will be interactive mental health chatbots. In case the student needs any kind of help, he/she can be provided immediate assistance.
 
@@ -67,7 +67,7 @@ Making learning more interactive and innovative by providing a clearer picture a
 
 ## Our Models
 
-![UML-Diagram](https://cdn.discordapp.com/attachments/1046493587916988417/1113141041399332874/Diagram.png)
+![UML-Diagram](images/Diagram.png)
 
 # Student Login/Register
 
@@ -75,10 +75,10 @@ Firstly we present you the login and register page. First time visitors will hav
 
 #### Registration Page
 
-![Register](https://cdn.discordapp.com/attachments/1046493587916988417/1115982762248261672/Screenshot_2023-06-07_180649.png)
+![Register](images/Screenshot_2023-06-07_180649.png)
 
 #### Login Page
-![Login](https://cdn.discordapp.com/attachments/1046493587916988417/1115982762701226004/Screenshot_2023-06-07_180632.png)
+![Login](images/Screenshot_2023-06-07_180632.png)
 
 # Dashboard
 
@@ -86,11 +86,11 @@ Now the new student is welcomed with the dashboard welcome message. Here we have
 Now there will be a alert or notification section as well, where the alerts from the admins will be presented. The next section includes the attendance for all the subjects along with the average attendance. Next is a piechart showing the number of assignments submitted where the student will get to know how many assignments are still left to submit. After that, we have the Learners'Ed Coin Bank, which tells us how many coins are left with the user and on the right side we have our virtual pet information, such as pet name, level and rank.
 At last, we have the recommendation section where the category selected would determine which type of videos will be fetched for the student and be presented in the recommendation section. 
 
-![Dash-1](https://cdn.discordapp.com/attachments/1046493587916988417/1115985017231917157/Screenshot_2023-06-07_181401.png)
+![Dash-1](images/Screenshot_2023-06-07_181401.png)
 
-![Dash-2](https://cdn.discordapp.com/attachments/1046493587916988417/1115985016892170423/Screenshot_2023-06-07_181456.png)
+![Dash-2](images/Screenshot_2023-06-07_181456.png)
 
-![Dash-3](https://cdn.discordapp.com/attachments/1046493587916988417/1115985016548245504/Screenshot_2023-06-07_181545.png)
+![Dash-3](images/Screenshot_2023-06-07_181545.png)
 
 # Lecture Section
 
@@ -98,15 +98,15 @@ Now we have the lecture section where all of the lectures recommended for the st
 
 #### Lecture List
 
-![Lect](https://cdn.discordapp.com/attachments/1046493587916988417/1115989285913493525/Screenshot_2023-06-07_183042.png)
+![Lect](images/Screenshot_2023-06-07_183042.png)
 
 #### Not Drowsy
 
-![lec-1](https://cdn.discordapp.com/attachments/1046493587916988417/1115989285108187167/Screenshot_2023-06-07_183229.png)
+![lec-1](images/Screenshot_2023-06-07_183229.png)
 
 #### Drowsy
 
-![lec-2](https://cdn.discordapp.com/attachments/1046493587916988417/1115989285443735703/Screenshot_2023-06-07_183128.png)
+![lec-2](images/Screenshot_2023-06-07_183128.png)
 
 # Drowsiness Detection System
  
@@ -166,24 +166,24 @@ Training Time Rate: 0.438332327047551
 
 Here is the benchamarking difference between the model trained on normal cpu vs on intel optimization, same hardware better performance!
 
-![banch](https://cdn.discordapp.com/attachments/1046493587916988417/1115992633936986182/drowsy.png)
+![banch](images/drowsy.png)
 
 
 # Gamify Section
 
 Now coming to the most entertaining section of the LearnersEd Portal, the gamify section. Here the students are encouraged to sharpen their minds along with having a fun competitve environment amongst them. There are two section here gamify quiz and virtual pet.
 
-![gam](https://cdn.discordapp.com/attachments/1046493587916988417/1116014066574569564/Screenshot_2023-06-07_185607.png)
+![gam](images/Screenshot_2023-06-07_185607.png)
 
 ## Gamify Quiz 
 
 Here the students are presented with a quiz, but the twist is the answers are not selected by mouse or keyboard input, the options are selected by their head posture and this would reduce their decision taking time and would improve their reflexes to act upon situations, every student needs to attentively solve the quiz and then after the quiz they would get Learners'Ed Coins according to the marks they scored.
 
-![q](https://cdn.discordapp.com/attachments/1046493587916988417/1116014066285170708/Screenshot_2023-06-07_185628.png)
+![q](images/Screenshot_2023-06-07_185628.png)
 
-![q2](https://cdn.discordapp.com/attachments/1046493587916988417/1116015387583205478/Screenshot_2023-06-07_201413.png)
+![q2](images/Screenshot_2023-06-07_201413.png)
 
-![q3](https://cdn.discordapp.com/attachments/1046493587916988417/1116015386983407636/Screenshot_2023-06-07_201617.png)
+![q3](images/Screenshot_2023-06-07_201617.png)
 
 This module is supported by Face Pose detection model developed by us.
 
@@ -249,7 +249,7 @@ Training Time Rate: 0.4256577027908266
 
 Here is the benchmarks difference in normal cpu vs intel optimized cpu
 
-![bgam](https://cdn.discordapp.com/attachments/1046493587916988417/1116017222951903284/FacePose.png)
+![bgam](images/FacePose.png)
 
 ## Virtual Pet
 
@@ -257,9 +257,9 @@ Here comes the virtual pet section, the students have access to their very own v
 
 This whole system is developed using javascript code only, no model trained.
 
-![vpet](https://cdn.discordapp.com/attachments/1046493587916988417/1116036254757310534/Screenshot_2023-06-07_213827.png)
+![vpet](images/Screenshot_2023-06-07_213827.png)
 
-![vpet](https://cdn.discordapp.com/attachments/1046493587916988417/1116036254371426355/Screenshot_2023-06-07_213909.png)
+![vpet](images/Screenshot_2023-06-07_213909.png)
 
 # Assignment Upload Section
 
@@ -269,13 +269,13 @@ Here in this section the students can upload their respective assignments, if ho
 
 Submitting a unique assignment
 
-![check](https://cdn.discordapp.com/attachments/1046493587916988417/1116039939461763172/Screenshot_2023-06-07_215334.png)
+![check](images/Screenshot_2023-06-07_215334.png)
 
 #### Rejected
 
 Submitting a same assignment again
 
-![check](https://cdn.discordapp.com/attachments/1046493587916988417/1116039939096842260/Screenshot_2023-06-07_215357.png)
+![check](images/Screenshot_2023-06-07_215357.png)
 
 This model is not trained, it just use cosine_similarity and nltk library to calculate plagiarism, so no benchmark is done.
 
@@ -303,7 +303,7 @@ In summary, the code performs a plagiarism check by comparing a student's assign
 
 # Students Insight Section
 
-![student](https://cdn.discordapp.com/attachments/1046493587916988417/1116047719711125644/Screenshot_2023-06-07_215959.png)
+![student](images/Screenshot_2023-06-07_215959.png)
 
 This section is made for students to explore more out of their surrounding peoples and environment, this section is divided into 3 sections. This makes a healthy environment for them in the panel itself, making them feel connected which was a major hit at the time of covid.
 
@@ -312,13 +312,13 @@ This section is made for students to explore more out of their surrounding peopl
 The first one is chatrooms, this chatrooms are available throughout the campus, further these can be sub divided into class-wise, section-wise as well, so that students can chat and get along their coomunity. This will help building a community mindset amongst them and never leave them alone in the lockdown period of covid, making them 
 mentally strong. 
 
-![issm](https://cdn.discordapp.com/attachments/1046493587916988417/1116047719463657553/Screenshot_2023-06-07_220039.png)
+![issm](images/Screenshot_2023-06-07_220039.png)
 
 ## Mental Health Chatbot
 
 The second section includes mental health chatbot which is a deep learning model trainged chatbot. This model helps the students to discuss their problems with them and give a stress release session with the chatbot. The chatbot gives a helping hand to the students if they face any such mental health issues.
 
-![men](https://cdn.discordapp.com/attachments/1046493587916988417/1116047719174254662/Screenshot_2023-06-07_220259.png)
+![men](images/Screenshot_2023-06-07_220259.png)
 
 The provided code trains a chatbot model using a sequential neural network for intent recognition and response generation. Here is a technical write-up summarizing its functionality:
 
@@ -366,21 +366,21 @@ Throughput Rate: 2.3821281464139816
 
 Training Time Rate: 0.7704980148747786
 
-![img](https://cdn.discordapp.com/attachments/1046493587916988417/1116049227915730974/Mental_Health_Chatbot.png)
+![img](images/Mental_Health_Chatbot.png)
 
 ## Explore Fields
 
 The last section inlcudes Explore Fields section which fetches the information from different sets of fields, and present them to the students with the help of popular newsletter API, these gathered pit of useful information makes the student more encouraged to read them, instead of searching and scraping them through the web.
 
-![Exp](https://cdn.discordapp.com/attachments/1046493587916988417/1116047718771597312/Screenshot_2023-06-07_220329.png)
+![Exp](images/Screenshot_2023-06-07_220329.png)
 
-![exp](https://cdn.discordapp.com/attachments/1046493587916988417/1116047718243123240/Screenshot_2023-06-07_220346.png)
+![exp](images/Screenshot_2023-06-07_220346.png)
 
 Here is the whole process flow diagram for each model being used.
 
 # Process Flow Diagram
 
-![Process](https://cdn.discordapp.com/attachments/1046493587916988417/1115980341925130251/Intel_oneAPI_Hackathon_PPT.png)
+![Process](images/Intel_oneAPI_Hackathon_PPT.png)
 
 # Summary of Intel oneAPI AI Analytics Toolkit Optimization
 To meet the project requirements, we have developed three sophisticated Deep Learning Models that play crucial roles in different sections of our platform. These models have been enhanced with Intel oneDNN and OpenMP optimization, allowing us to achieve exceptional performance gains, including faster training, higher throughput, improved inference speed, and reduced latency.
