@@ -6,7 +6,7 @@
 
 ## A Brief of the Prototype:
 
-![Banner-1](https://cdn.discordapp.com/attachments/1046493587916988417/1113101680968466452/1.png)
+![Banner-1](images/1.png)
 
 Quality education is the path to transcendence and making this journey more engaging is the sole purpose of our project. We intend to include features that would provide an interactive interface to the user where he/she can have a more precise watch on his/her performance, explore their areas of interest, and connect with people of the desired field in the vicinity using the real-time trained DL and ML model. 
 
