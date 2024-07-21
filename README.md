@@ -5,10 +5,10 @@
 #### Team Leader Email - **saumya.srivastava_cs.aiml21@gla.ac.in**
 
 ### **Intel Official AI Blog Page:**
-https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-an-Interactive-Educational-Platform-Using-Intel-AI/post/1585262
+[https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-an-Interactive-Educational-Platform-Using-Intel-AI/post/1585262](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-an-Interactive-Educational-Platform-Using-Intel-AI/post/1585262)
 
 ### **Intel Dev News Youtube Short (April 2024)**
-https://www.youtube.com/shorts/RTfQKs1ekZg
+[https://www.youtube.com/shorts/RTfQKs1ekZg](https://www.youtube.com/shorts/RTfQKs1ekZg)
 
 ## A Brief of the Prototype:
 
